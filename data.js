@@ -32,79 +32,79 @@ export const categoryList = [
         "secondId": 12,
         "secondTypeGrade": "2",
         "secondTypeName": "HTML",
-        "secondTypeIcon": "https://api02.icemedia2009.workers.dev/images/category/1555848601856.jpg"
+        "secondTypeIcon": "https://api.icemedia2009.workers.dev/images/category/1555848601856.jpg"
       },
       {
         "secondId": 13,
         "secondTypeGrade": "2",
         "secondTypeName": "CSS",
-        "secondTypeIcon": "https://api02.icemedia2009.workers.dev/images/category/1555848637817.jpg"
+        "secondTypeIcon": "https://api.icemedia2009.workers.dev/images/category/1555848637817.jpg"
       },
       {
         "secondId": 14,
         "secondTypeGrade": "2",
         "secondTypeName": "JavaScript",
-        "secondTypeIcon": "https://api02.icemedia2009.workers.dev/images/category/1555848663535.jpg"
+        "secondTypeIcon": "https://api.icemedia2009.workers.dev/images/category/1555848663535.jpg"
       },
       {
         "secondId": 15,
         "secondTypeGrade": "2",
         "secondTypeName": "JQuery",
-        "secondTypeIcon": "https://api02.icemedia2009.workers.dev/images/category/1555848684861.jpg"
+        "secondTypeIcon": "https://api.icemedia2009.workers.dev/images/category/1555848684861.jpg"
       },
       {
         "secondId": 16,
         "secondTypeGrade": "2",
         "secondTypeName": "ExtJS",
-        "secondTypeIcon": "https://api02.icemedia2009.workers.dev/images/category/1555848708930.jpg"
+        "secondTypeIcon": "https://api.icemedia2009.workers.dev/images/category/1555848708930.jpg"
       },
       {
         "secondId": 17,
         "secondTypeGrade": "2",
         "secondTypeName": "AngularJS",
-        "secondTypeIcon": "https://api02.icemedia2009.workers.dev/images/category/1555848722481.jpg"
+        "secondTypeIcon": "https://api.icemedia2009.workers.dev/images/category/1555848722481.jpg"
       },
       {
         "secondId": 18,
         "secondTypeGrade": "2",
         "secondTypeName": "ReactJS",
-        "secondTypeIcon": "https://api02.icemedia2009.workers.dev/images/category/1555848738168.jpg"
+        "secondTypeIcon": "https://api.icemedia2009.workers.dev/images/category/1555848738168.jpg"
       },
       {
         "secondId": 19,
         "secondTypeGrade": "2",
         "secondTypeName": "Bootstrap",
-        "secondTypeIcon": "https://api02.icemedia2009.workers.dev/images/category/1555848751942.jpg"
+        "secondTypeIcon": "https://api.icemedia2009.workers.dev/images/category/1555848751942.jpg"
       },
       {
         "secondId": 20,
         "secondTypeGrade": "2",
         "secondTypeName": "React Native",
-        "secondTypeIcon": "https://api02.icemedia2009.workers.dev/images/category/1555848769826.jpg"
+        "secondTypeIcon": "https://api.icemedia2009.workers.dev/images/category/1555848769826.jpg"
       },
       {
         "secondId": 21,
         "secondTypeGrade": "2",
         "secondTypeName": "Backbone",
-        "secondTypeIcon": "https://api02.icemedia2009.workers.dev/images/category/1555848785562.jpg"
+        "secondTypeIcon": "https://api.icemedia2009.workers.dev/images/category/1555848785562.jpg"
       },
       {
         "secondId": 22,
         "secondTypeGrade": "2",
         "secondTypeName": "Three.js",
-        "secondTypeIcon": "https://api02.icemedia2009.workers.dev/images/category/1555848807741.jpg"
+        "secondTypeIcon": "https://api.icemedia2009.workers.dev/images/category/1555848807741.jpg"
       },
       {
         "secondId": 23,
         "secondTypeGrade": "2",
         "secondTypeName": "MooTools",
-        "secondTypeIcon": "https://api02.icemedia2009.workers.dev/images/category/1555848824243.jpg"
+        "secondTypeIcon": "https://api.icemedia2009.workers.dev/images/category/1555848824243.jpg"
       },
       {
         "secondId": 24,
         "secondTypeGrade": "2",
         "secondTypeName": "Compass",
-        "secondTypeIcon": "https://api02.icemedia2009.workers.dev/images/category/1555848837583.jpg"
+        "secondTypeIcon": "https://api.icemedia2009.workers.dev/images/category/1555848837583.jpg"
       }
     ],
     "firstId": 1
@@ -223,11 +223,11 @@ export const homeGoods = {
     {
       "bookInfoId": 4,
       "salesVolume": 376,
-      "roundPlayPic": "https://api02.icemedia2009.workers.dev/images/goods/1555850845474.jpg,https://api02.icemedia2009.workers.dev/images/goods/1555850845474.jpg",
+      "roundPlayPic": "https://api.icemedia2009.workers.dev/images/goods/1555850845474.jpg,https://api.icemedia2009.workers.dev/images/goods/1555850845474.jpg",
       "secondClassificationId": 25,
       "weight": 100,
       "type": 0,
-      "listPic": "https://api02.icemedia2009.workers.dev/images/goods/1555850845474.jpg",
+      "listPic": "https://api.icemedia2009.workers.dev/images/goods/1555850845474.jpg",
       "firstClassificationId": 2,
       "createTime": "Apr 22, 2019 4:45:09 AM",
       "isUpper": 0,
@@ -240,12 +240,12 @@ export const homeGoods = {
     {
       "bookInfoId": 1,
       "salesVolume": 567,
-      "roundPlayPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851154057.jpg,https://api02.icemedia2009.workers.dev/images/goods/1559081305918.jpg",
-      "infoPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851154057.jpg,https://api02.icemedia2009.workers.dev/images/goods/1559081305918.jpg",
+      "roundPlayPic": "https://api.icemedia2009.workers.dev/images/goods/1555851154057.jpg,https://api.icemedia2009.workers.dev/images/goods/1559081305918.jpg",
+      "infoPic": "https://api.icemedia2009.workers.dev/images/goods/1555851154057.jpg,https://api.icemedia2009.workers.dev/images/goods/1559081305918.jpg",
       "secondClassificationId": 25,
       "weight": 90,
       "type": 0,
-      "listPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851154057.jpg",
+      "listPic": "https://api.icemedia2009.workers.dev/images/goods/1555851154057.jpg",
       "firstClassificationId": 2,
       "createTime": "Apr 22, 2019 4:52:11 AM",
       "isUpper": 0,
@@ -258,11 +258,11 @@ export const homeGoods = {
     {
       "bookInfoId": 2,
       "salesVolume": 234,
-      "roundPlayPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851345937.jpg,https://api02.icemedia2009.workers.dev/images/goods/1555851345937.jpg",
+      "roundPlayPic": "https://api.icemedia2009.workers.dev/images/goods/1555851345937.jpg,https://api.icemedia2009.workers.dev/images/goods/1555851345937.jpg",
       "secondClassificationId": 33,
       "weight": 80,
       "type": 0,
-      "listPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851345937.jpg",
+      "listPic": "https://api.icemedia2009.workers.dev/images/goods/1555851345937.jpg",
       "firstClassificationId": 3,
       "createTime": "Apr 22, 2019 4:55:24 AM",
       "isUpper": 0,
@@ -277,11 +277,11 @@ export const homeGoods = {
     {
       "bookInfoId": 7,
       "salesVolume": 500,
-      "roundPlayPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851965264.jpg,https://api02.icemedia2009.workers.dev/images/goods/1555851965264.jpg",
+      "roundPlayPic": "https://api.icemedia2009.workers.dev/images/goods/1555851965264.jpg,https://api.icemedia2009.workers.dev/images/goods/1555851965264.jpg",
       "secondClassificationId": 12,
       "weight": 40,
       "type": 2,
-      "listPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851965264.jpg",
+      "listPic": "https://api.icemedia2009.workers.dev/images/goods/1555851965264.jpg",
       "firstClassificationId": 1,
       "createTime": "Apr 22, 2019 5:05:38 AM",
       "isUpper": 0,
@@ -294,11 +294,11 @@ export const homeGoods = {
     {
       "bookInfoId": 4,
       "salesVolume": 376,
-      "roundPlayPic": "https://api02.icemedia2009.workers.dev/images/goods/1555850845474.jpg,https://api02.icemedia2009.workers.dev/images/goods/1555850845474.jpg",
+      "roundPlayPic": "https://api.icemedia2009.workers.dev/images/goods/1555850845474.jpg,https://api.icemedia2009.workers.dev/images/goods/1555850845474.jpg",
       "secondClassificationId": 25,
       "weight": 30,
       "type": 2,
-      "listPic": "https://api02.icemedia2009.workers.dev/images/goods/1555850845474.jpg",
+      "listPic": "https://api.icemedia2009.workers.dev/images/goods/1555850845474.jpg",
       "firstClassificationId": 2,
       "createTime": "Apr 22, 2019 5:05:38 AM",
       "isUpper": 0,
@@ -311,12 +311,12 @@ export const homeGoods = {
     {
       "bookInfoId": 1,
       "salesVolume": 567,
-      "roundPlayPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851154057.jpg,https://api02.icemedia2009.workers.dev/images/goods/1559081305918.jpg",
-      "infoPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851154057.jpg,https://api02.icemedia2009.workers.dev/images/goods/1559081305918.jpg",
+      "roundPlayPic": "https://api.icemedia2009.workers.dev/images/goods/1555851154057.jpg,https://api.icemedia2009.workers.dev/images/goods/1559081305918.jpg",
+      "infoPic": "https://api.icemedia2009.workers.dev/images/goods/1555851154057.jpg,https://api.icemedia2009.workers.dev/images/goods/1559081305918.jpg",
       "secondClassificationId": 25,
       "weight": 20,
       "type": 2,
-      "listPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851154057.jpg",
+      "listPic": "https://api.icemedia2009.workers.dev/images/goods/1555851154057.jpg",
       "firstClassificationId": 2,
       "createTime": "Apr 22, 2019 4:52:11 AM",
       "isUpper": 0,
@@ -331,11 +331,11 @@ export const homeGoods = {
     {
       "bookInfoId": 3,
       "salesVolume": 123,
-      "roundPlayPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851497575.jpg,https://api02.icemedia2009.workers.dev/images/goods/1555851497575.jpg",
+      "roundPlayPic": "https://api.icemedia2009.workers.dev/images/goods/1555851497575.jpg,https://api.icemedia2009.workers.dev/images/goods/1555851497575.jpg",
       "secondClassificationId": 26,
       "weight": 70,
       "type": 1,
-      "listPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851497575.jpg",
+      "listPic": "https://api.icemedia2009.workers.dev/images/goods/1555851497575.jpg",
       "firstClassificationId": 2,
       "createTime": "Apr 22, 2019 4:57:57 AM",
       "isUpper": 0,
@@ -348,11 +348,11 @@ export const homeGoods = {
     {
       "bookInfoId": 5,
       "salesVolume": 400,
-      "roundPlayPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851661073.png,https://api02.icemedia2009.workers.dev/images/goods/1555851661073.png",
+      "roundPlayPic": "https://api.icemedia2009.workers.dev/images/goods/1555851661073.png,https://api.icemedia2009.workers.dev/images/goods/1555851661073.png",
       "secondClassificationId": 12,
       "weight": 60,
       "type": 1,
-      "listPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851661073.png",
+      "listPic": "https://api.icemedia2009.workers.dev/images/goods/1555851661073.png",
       "firstClassificationId": 1,
       "createTime": "Apr 22, 2019 5:00:38 AM",
       "isUpper": 0,
@@ -365,11 +365,11 @@ export const homeGoods = {
     {
       "bookInfoId": 6,
       "salesVolume": 456,
-      "roundPlayPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851817322.jpg,https://api02.icemedia2009.workers.dev/images/goods/1555851817322.jpg",
+      "roundPlayPic": "https://api.icemedia2009.workers.dev/images/goods/1555851817322.jpg,https://api.icemedia2009.workers.dev/images/goods/1555851817322.jpg",
       "secondClassificationId": 12,
       "weight": 50,
       "type": 1,
-      "listPic": "https://api02.icemedia2009.workers.dev/images/goods/1555851817322.jpg",
+      "listPic": "https://api.icemedia2009.workers.dev/images/goods/1555851817322.jpg",
       "firstClassificationId": 1,
       "createTime": "Apr 22, 2019 5:03:16 AM",
       "isUpper": 0,
