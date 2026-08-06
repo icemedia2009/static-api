@@ -32,7 +32,14 @@ worker/
    ```
    npx wrangler deploy
    ```
-   部署成功后，终端会显示你的 Worker 域名（如 `hwshop-api.你的用户名.workers.dev`）。
+   部署成功后，终端会显示你的 Worker 域名（本项目 name 为 `api02`，域名即 `https://api02.<你的账号子域>.workers.dev`）。
+
+### 方式 A2：GitHub 自动部署（Cloudflare Workers Builds）
+
+1. 把本目录所有文件（含 `assets/`、`wrangler.toml`、`worker.js`、`data.js`、`package.json`、`.gitignore`）推送到 GitHub 仓库（**不要**提交 node_modules，`.gitignore` 已自动忽略）
+2. Cloudflare Dashboard → Workers & Pages → 创建 → Workers → 连接 Git 仓库
+3. 构建命令填 `npx wrangler deploy`（或依赖 package.json 的 deploy 脚本自动检测）
+4. 每次 push 自动部署；部署后访问 `https://api02.<账号子域>.workers.dev`
 
 ### 方式 B：网页控制台部署
 
@@ -82,6 +89,7 @@ https://你的域名/images/goods/1555850845474.jpg          → 商品图片
 
 ## 常见问题
 
+- **构建报 `Unknown character "47"`**：wrangler.toml 里用了 `//` 注释（TOML 只认 `#`），已全部修正
 - **接口返回 Not Found**：检查 URL 路径是否正确（/api/ 开头）
 - **图片 404**：检查图片是否在 `assets/images/` 对应子目录
 - **微信小程序真机不显示**：域名校验问题，需在小程序后台配置合法域名
